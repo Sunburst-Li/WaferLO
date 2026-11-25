@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: "WaferLO: Dual-Branch Convolution and Progressive Attention-Aware YOLO for Wafer Defect Detection"
+message: "If you use WaferLO in your research, please cite this repository and the associated paper."
+type: software
+authors:
+  - given-names: Xuebo
+    family-names: Li
+  - given-names: Chong
+    family-names: Li
+  - given-names: Xinning
+    family-names: Wang
+  - given-names: Jingzhi
+    family-names: Li
+  - given-names: Wenqi
+    family-names: Ren
+  - given-names: Jin
+    family-names: Wu
+repository-code: "https://github.com/Sunburst-Li/WaferLO"
+license: AGPL-3.0
+keywords:
+  - wafer defect detection
+  - industrial surface inspection
+  - object detection
+  - Ultralytics

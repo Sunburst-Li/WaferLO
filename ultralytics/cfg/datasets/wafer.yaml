@@ -1,0 +1,14 @@
+# Relative path is resolved against this YAML by waferlo.py.
+path: ../../datasets/wafer
+train: train/images
+val: valid/images
+test: test/images
+nc: 7
+names:
+  0: COATING BAD
+  1: PO CONTAMINATION
+  2: SCRATCH
+  3: PIQ PARTICLE
+  4: SEZ BURNT
+  5: BLOCK ETCH
+  6: PARTICLE

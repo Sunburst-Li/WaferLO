@@ -1,0 +1,18 @@
+# DsPCBSD+ surface defect detection dataset.
+# Set `path` to the local dataset root before training.
+path: datasets/DsPCBSD+
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 9
+names:
+  0: SH
+  1: SP
+  2: SC
+  3: OP
+  4: MB
+  5: HB
+  6: CS
+  7: CFO
+  8: BMFO

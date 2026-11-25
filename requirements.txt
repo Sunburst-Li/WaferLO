@@ -1,0 +1,2 @@
+# Install this local fork and its runtime dependencies.
+-e .

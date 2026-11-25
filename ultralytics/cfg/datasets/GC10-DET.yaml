@@ -1,0 +1,19 @@
+# GC10-DET metallic surface defect dataset.
+# Set `path` to a local YOLO-format conversion before training.
+path: datasets/GC10-DET-YOLO
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 10
+names:
+  0: punching_hole
+  1: weld_line
+  2: crescent_gap
+  3: water_spot
+  4: oil_spot
+  5: silk_spot
+  6: inclusion
+  7: rolled_pit
+  8: crease
+  9: waist_fold
